@@ -4,8 +4,8 @@
 
 Proyecto de análisis de datos con el catálogo sísmico instrumental del Instituto Geofísico del Perú (IGP)
 
-![Página 1 - Panorama](imagenes/pagina1.png)
-![Página 2 - Tiempo y Lima](imagenes/pagina2.png)
+![Página 1 - Panorama](imagenes/pagina1.PNG)
+![Página 2 - Tiempo y Lima](imagenes/pagina2.PNG)
 
 
 ## Preguntas que responde
